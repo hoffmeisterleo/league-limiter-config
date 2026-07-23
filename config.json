@@ -1,0 +1,19 @@
+{
+  "timezone": "Europe/Berlin",
+  "schedule": [
+    { "day": "fri", "start": "20:00", "end": "23:00" },
+    { "day": "sat", "start": "20:00", "end": "23:00" }
+  ],
+  "override": {
+    "mode": "none",
+    "until": null
+  },
+  "targets": [
+    "RiotClientServices",
+    "LeagueClient",
+    "LeagueClientUx",
+    "League of Legends"
+  ],
+  "protected_when_running": ["League of Legends"],
+  "substitute_apps": ["Ableton Live 11 Suite"]
+}
