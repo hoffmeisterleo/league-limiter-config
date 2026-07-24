@@ -1,9 +1,6 @@
 {
   "timezone": "Europe/Berlin",
-  "schedule": [
-    { "day": "fri", "start": "20:00", "end": "23:00" },
-    { "day": "sat", "start": "20:00", "end": "23:00" }
-  ],
+  "schedule": [],
   "override": {
     "mode": "none",
     "until": null
